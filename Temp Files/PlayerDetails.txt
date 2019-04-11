@@ -1,0 +1,1276 @@
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       ROHIT SHARAMA       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		177                     
+	Not-out              :          27                 
+	RUNS                 :          4600               
+	HIGHEST SCORE        :          109*               
+	AVERAGE              :          31.72              
+	STRIKE-RATE          :          131.01             
+	100                  :          1                  
+	50                   :          34                                     
+
+ BOWLING
+
+	MATCH		     : 		177
+	WICKETS		     :		15
+	BBM		     :		4/6
+	AVERAGE		     :          29.33
+	ECOMONY              :		7.95
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      QUINTON DE KOCK      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		38                    
+	Not-out              :          1                 
+	RUNS                 :          1041               
+	HIGHEST SCORE        :          108              
+	AVERAGE              :          28.13              
+	STRIKE-RATE          :          131.27             
+	100                  :          1                  
+	50                   :          7                                     
+
+ BOWLING
+
+	MATCH		     : 		38
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       HARDIK PANDYA       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		54                     
+	Not-out              :          20                 
+	RUNS                 :          754               
+	HIGHEST SCORE        :          61*               
+	AVERAGE              :          25.13              
+	STRIKE-RATE          :          144.16             
+	100                  :          0                  
+	50                   :          2                                     
+
+ BOWLING
+
+	MATCH		     : 		54
+	WICKETS		     :		32
+	BBM		     :		3/20
+	AVERAGE		     :          33.12
+	ECOMONY              :		9.11
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      KIERON POLLARD       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		136                    
+	Not-out              :          34                 
+	RUNS                 :          2526               
+	HIGHEST SCORE        :          78               
+	AVERAGE              :          27.75             
+	STRIKE-RATE          :          145.67             
+	100                  :          0                  
+	50                   :          13                                
+
+ BOWLING
+
+	MATCH		     : 		136
+	WICKETS		     :		56
+	BBM		     :		4/44
+	AVERAGE		     :          31.60
+	ECOMONY              :		8.85
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      JASPRIT BUMRAH       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		65                    
+	Not-out              :          9                 
+	RUNS                 :          35               
+	HIGHEST SCORE        :          16*               
+	AVERAGE              :          11.66             
+	STRIKE-RATE          :          92.10             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		65
+	WICKETS		     :		67
+	BBM		     :		3/7
+	AVERAGE		     :          28.16
+	ECOMONY              :		7.74
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       YUVRAJ SINGH        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		132                    
+	Not-out              :          15               
+	RUNS                 :          2750             
+	HIGHEST SCORE        :          83               
+	AVERAGE              :          24.77             
+	STRIKE-RATE          :          129.71             
+	100                  :          0                  
+	50                   :          13                                
+
+ BOWLING
+
+	MATCH		     : 		132
+	WICKETS		     :		36
+	BBM		     :		4/29
+	AVERAGE		     :          29.91
+	ECOMONY              :		7.43
+	4W                   :		2
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :    RAVICHANDRAN ASHWIN    :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		129
+	Not-out              :          16                 
+	RUNS                 :          336              
+	HIGHEST SCORE        :          45               
+	AVERAGE              :          10.83             
+	STRIKE-RATE          :          106.66             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		129
+	WICKETS		     :		113
+	BBM		     :		4/34
+	AVERAGE		     :          26.84
+	ECOMONY              :		6.76
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        CHRIS GAYLE        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		115                    
+	Not-out              :          14               
+	RUNS                 :          4133               
+	HIGHEST SCORE        :          175*               
+	AVERAGE              :          41.33             
+	STRIKE-RATE          :          151.17             
+	100                  :          6                  
+	50                   :          25                                
+
+ BOWLING
+
+	MATCH		     : 		115
+	WICKETS		     :		18
+	BBM		     :		3/21
+	AVERAGE		     :          40.22
+	ECOMONY              :		7.91
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        LOKESH RAHUL       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		57
+	Not-out              :          9                 
+	RUNS                 :          1475              
+	HIGHEST SCORE        :          95            
+	AVERAGE              :          37.82             
+	STRIKE-RATE          :          137.85             
+	100                  :          0                  
+	50                   :          11                                
+
+ BOWLING
+
+	MATCH		     : 		57
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        DAVID MILLER       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		72
+	Not-out              :          23                 
+	RUNS                 :          1754              
+	HIGHEST SCORE        :          101*               
+	AVERAGE              :          37.31             
+	STRIKE-RATE          :          140.43             
+	100                  :          1                  
+	50                   :          9                                
+
+ BOWLING
+
+	MATCH		     : 		72
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      MOHAMMED SHAMI       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		42
+	Not-out              :          7                 
+	RUNS                 :          54              
+	HIGHEST SCORE        :          21               
+	AVERAGE              :          6.00             
+	STRIKE-RATE          :          100.00             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		47
+	WICKETS		     :		26
+	BBM		     :		2/27
+	AVERAGE		     :          47.07
+	ECOMONY              :		9.13
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        SAM CURRAN         :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		2
+	Not-out              :          0                 
+	RUNS                 :          20              
+	HIGHEST SCORE        :          20               
+	AVERAGE              :          20.00             
+	STRIKE-RATE          :          200.00             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		2
+	WICKETS		     :		6
+	BBM		     :		4/11
+	AVERAGE		     :          10.50
+	ECOMONY              :		9.94
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       SHREYAS IYER        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		51
+	Not-out              :          6                
+	RUNS                 :          1366              
+	HIGHEST SCORE        :          96             
+	AVERAGE              :          30.35             
+	STRIKE-RATE          :          128.50             
+	100                  :          0                  
+	50                   :          10                                
+
+ BOWLING
+
+	MATCH		     : 		51
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      SHIKHAR DHAWAN       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		148
+	Not-out              :          20               
+	RUNS                 :          4210              
+	HIGHEST SCORE        :          95*             
+	AVERAGE              :          33.14             
+	STRIKE-RATE          :          123.27             
+	100                  :          0                  
+	50                   :          33                                
+
+ BOWLING
+
+	MATCH		     : 		148
+	WICKETS		     :		4
+	BBM		     :		1/7
+	AVERAGE		     :          16.50
+	ECOMONY              :		8.25
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       RISHABH PANT        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		43
+	Not-out              :          4                
+	RUNS                 :          1406              
+	HIGHEST SCORE        :          128*             
+	AVERAGE              :          36.05             
+	STRIKE-RATE          :          164.44             
+	100                  :          1                  
+	50                   :          9                                
+
+ BOWLING
+
+	MATCH		     : 		43
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       PRITHVI SHAW        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		14
+	Not-out              :          0                
+	RUNS                 :          386           
+	HIGHEST SCORE        :          99              
+	AVERAGE              :          27.57             
+	STRIKE-RATE          :          155.02             
+	100                  :          0                  
+	50                   :          3                                
+
+ BOWLING
+
+	MATCH		     : 		14
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       CHRIS MORRIS        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		55
+	Not-out              :          20                
+	RUNS                 :          502              
+	HIGHEST SCORE        :          82*              
+	AVERAGE              :          33.46             
+	STRIKE-RATE          :          163.51             
+	100                  :          0                  
+	50                   :          2                                
+
+ BOWLING
+
+	MATCH		     : 		55
+	WICKETS		     :		60
+	BBM		     :		4/23
+	AVERAGE		     :          24.90
+	ECOMONY              :		7.78
+	4W                   :		2
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       KAGISO RABADA       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		11
+	Not-out              :          0                
+	RUNS                 :          58              
+	HIGHEST SCORE        :          44               
+	AVERAGE              :          11.60             
+	STRIKE-RATE          :          84.05             
+	100                  :          0                 
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		11
+	WICKETS		     :		13
+	BBM		     :		2/20
+	AVERAGE		     :          26.30
+	ECOMONY              :		8.44
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :         MS DHONI          :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		180
+	Not-out              :          61                 
+	RUNS                 :          4172              
+	HIGHEST SCORE        :          79*             
+	AVERAGE              :          41.30             
+	STRIKE-RATE          :          137.64             
+	100                  :          0                  
+	50                   :          21                                
+
+ BOWLING
+
+	MATCH		     : 		180
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       SURESH RAINA        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		181
+	Not-out              :          27                 
+	RUNS                 :          5103              
+	HIGHEST SCORE        :          100*               
+	AVERAGE              :          34.02             
+	STRIKE-RATE          :          137.76             
+	100                  :          1                  
+	50                   :          35                                
+
+ BOWLING
+
+	MATCH		     : 		181
+	WICKETS		     :		25
+	BBM		     :		2/0
+	AVERAGE		     :          44.72
+	ECOMONY              :		7.38
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       AMBATI RAYUDU       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		135
+	Not-out              :          21                 
+	RUNS                 :          3073              
+	HIGHEST SCORE        :          100*               
+	AVERAGE              :          28.71             
+	STRIKE-RATE          :          128.68             
+	100                  :          1                  
+	50                   :          17                                
+
+ BOWLING
+
+	MATCH		     : 		135
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		7.33
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      RAVINDRA JADEJA      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		159
+	Not-out              :          44               
+	RUNS                 :          1836              
+	HIGHEST SCORE        :          48             
+	AVERAGE              :          23.53             
+	STRIKE-RATE          :          122.07             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		159
+	WICKETS		     :		97
+	BBM		     :		5/16
+	AVERAGE		     :          29.93
+	ECOMONY              :		7.68
+	4W                   :		3
+	5W                   :		1
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       DWAYNE BRAVO        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		126
+	Not-out              :          35                 
+	RUNS                 :          1442              
+	HIGHEST SCORE        :          70*               
+	AVERAGE              :          23.63             
+	STRIKE-RATE          :          128.98             
+	100                  :          0                  
+	50                   :          5                                
+
+ BOWLING
+
+	MATCH		     : 		126
+	WICKETS		     :		143
+	BBM		     :		4/22
+	AVERAGE		     :          23.78
+	ECOMONY              :		8.46
+	4W                   :		2
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       SHANE WATSON        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		122
+	Not-out              :          15                 
+	RUNS                 :          3265              
+	HIGHEST SCORE        :          117*               
+	AVERAGE              :          31.69             
+	STRIKE-RATE          :          140.18             
+	100                  :          4                  
+	50                   :          16                                
+
+ BOWLING
+
+	MATCH		     : 		122
+	WICKETS		     :		92
+	BBM		     :		4/29
+	AVERAGE		     :          29.15
+	ECOMONY              :		7.93
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       AJINKYA RAHANE      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		130
+	Not-out              :          15               
+	RUNS                 :          3546              
+	HIGHEST SCORE        :          103*             
+	AVERAGE              :          32.83             
+	STRIKE-RATE          :          120.65             
+	100                  :          1                  
+	50                   :          27                                
+
+ BOWLING
+
+	MATCH		     : 		130
+	WICKETS		     :		1
+	BBM		     :		1/5
+	AVERAGE		     :          5.00
+	ECOMONY              :		5.00
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       SANJU SAMSON        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		84
+	Not-out              :          8                
+	RUNS                 :          2007              
+	HIGHEST SCORE        :          102*               
+	AVERAGE              :          27.87             
+	STRIKE-RATE          :          128.98             
+	100                  :          2                  
+	50                   :          10                                
+
+ BOWLING
+
+	MATCH		     : 		84
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       JAYDEV UNADKAT      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		65
+	Not-out              :          9                
+	RUNS                 :          55              
+	HIGHEST SCORE        :          26               
+	AVERAGE              :          9.16             
+	STRIKE-RATE          :          103.77             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		65
+	WICKETS		     :		69
+	BBM		     :		5/25
+	AVERAGE		     :          27.79
+	ECOMONY              :		8.57
+	4W                   :		0
+	5W                   :		2
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        STEVE SMITH        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		73
+	Not-out              :          16                
+	RUNS                 :          1789              
+	HIGHEST SCORE        :          101             
+	AVERAGE              :          36.51             
+	STRIKE-RATE          :          130.58             
+	100                  :          1                 
+	50                   :          5                                
+
+ BOWLING
+
+	MATCH		     : 		73
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		15.00
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        JOS BUTTLER        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		41
+	Not-out              :          6                
+	RUNS                 :          1214              
+	HIGHEST SCORE        :          95*             
+	AVERAGE              :          34.68             
+	STRIKE-RATE          :          148.95             
+	100                  :          0             
+	50                   :          8                                
+
+ BOWLING
+
+	MATCH		     : 		41
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :         BEN STOKES        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		29
+	Not-out              :          4                
+	RUNS                 :          581              
+	HIGHEST SCORE        :          103*               
+	AVERAGE              :          24.20             
+	STRIKE-RATE          :          138.00             
+	100                  :          1                  
+	50                   :          1                                
+
+ BOWLING
+
+	MATCH		     : 		29
+	WICKETS		     :		24
+	BBM		     :		3/15
+	AVERAGE		     :          31.91
+	ECOMONY              :		8.14
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      KANE WILLIAMSON      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		33
+	Not-out              :          5                
+	RUNS                 :          1160              
+	HIGHEST SCORE        :          89             
+	AVERAGE              :          41.42             
+	STRIKE-RATE          :          137.44             
+	100                  :          0                  
+	50                   :          11                             
+
+ BOWLING
+
+	MATCH		     : 		33
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		7.00
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       DAVID WARNER        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		119
+	Not-out              :          16               
+	RUNS                 :          4293              
+	HIGHEST SCORE        :          126               
+	AVERAGE              :          41.67             
+	STRIKE-RATE          :          143.10             
+	100                  :          4                  
+	50                   :          38                                
+
+ BOWLING
+
+	MATCH		     : 		119
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       JONNY BAIRSTON      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		5
+	Not-out              :          0                 
+	RUNS                 :          262              
+	HIGHEST SCORE        :          114               
+	AVERAGE              :          52.40             
+	STRIKE-RATE          :          166.87             
+	100                  :          1                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		5
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        YUSUF PATHAN       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		169
+	Not-out              :          42                 
+	RUNS                 :          3196              
+	HIGHEST SCORE        :          100               
+	AVERAGE              :          29.32             
+	STRIKE-RATE          :          143.12             
+	100                  :          1                  
+	50                   :          13                                
+
+ BOWLING
+
+	MATCH		     : 		169
+	WICKETS		     :		42
+	BBM		     :		3/20
+	AVERAGE		     :          33.69
+	ECOMONY              :		7.40
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :     BHUVNESHWAR KUMAR     :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		107
+	Not-out              :          17               
+	RUNS                 :          173              
+	HIGHEST SCORE        :          17*              
+	AVERAGE              :          7.86             
+	STRIKE-RATE          :          96.64             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		107
+	WICKETS		     :		123
+	BBM		     :		5/19
+	AVERAGE		     :          23.34
+	ECOMONY              :		7.26
+	4W                   :		2
+	5W                   :		1
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       RASHID KHAN         :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		36
+	Not-out              :          4                 
+	RUNS                 :          85              
+	HIGHEST SCORE        :          34*               
+	AVERAGE              :          10.62             
+	STRIKE-RATE          :          173.46             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		36
+	WICKETS		     :		42
+	BBM		     :		3/19
+	AVERAGE		     :          22.28
+	ECOMONY              :		6.59
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       DINESH KARTHIK      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		172
+	Not-out              :          24               
+	RUNS                 :          3473              
+	HIGHEST SCORE        :          86               
+	AVERAGE              :          26.71             
+	STRIKE-RATE          :          128.72             
+	100                  :          0                  
+	50                   :          17                                
+
+ BOWLING
+
+	MATCH		     : 		172
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       PIYUSH CHAWLA       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		148
+	Not-out              :          30               
+	RUNS                 :          554              
+	HIGHEST SCORE        :          24*              
+	AVERAGE              :          11.78             
+	STRIKE-RATE          :          112.60             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		148
+	WICKETS		     :		143
+	BBM		     :		4/17
+	AVERAGE		     :          26.50
+	ECOMONY              :		7.73
+	4W                   :		2
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       KULDEEP YADAV       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		35
+	Not-out              :          3                 
+	RUNS                 :          42              
+	HIGHEST SCORE        :          16               
+	AVERAGE              :          14.00             
+	STRIKE-RATE          :          82.35             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		35
+	WICKETS		     :		38
+	BBM		     :		4/20
+	AVERAGE		     :          25.78
+	ECOMONY              :		8.28
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        CHRIS LYNN         :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		32
+	Not-out              :          3                
+	RUNS                 :          955              
+	HIGHEST SCORE        :          93*               
+	AVERAGE              :          32.93             
+	STRIKE-RATE          :          138.40             
+	100                  :          0                  
+	50                   :          6                               
+
+ BOWLING
+
+	MATCH		     : 		32
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        SUNIL NARINE       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		101
+	Not-out              :          12                 
+	RUNS                 :          662              
+	HIGHEST SCORE        :          75               
+	AVERAGE              :          17.42             
+	STRIKE-RATE          :          170.17             
+	100                  :          0                  
+	50                   :          3                                
+
+ BOWLING
+
+	MATCH		     : 		101
+	WICKETS		     :		113
+	BBM		     :		5/19
+	AVERAGE		     :          22.85
+	ECOMONY              :		6.60
+	4W                   :		6
+	5W                   :		1
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       ANDRE RUSSELL       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		54
+	Not-out              :          8                
+	RUNS                 :          1097              
+	HIGHEST SCORE        :          88             
+	AVERAGE              :          31.34             
+	STRIKE-RATE          :          189.46             
+	100                  :          0                  
+	50                   :          5                                
+
+ BOWLING
+
+	MATCH		     : 		54
+	WICKETS		     :		49
+	BBM		     :		4/20
+	AVERAGE		     :          27.51
+	ECOMONY              :		8.81
+	4W                   :		1
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        VIRAT KOHLI        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		168
+	Not-out              :          26                 
+	RUNS                 :          5110              
+	HIGHEST SCORE        :          113               
+	AVERAGE              :          38.13             
+	STRIKE-RATE          :          130.62             
+	100                  :          4                  
+	50                   :          35                                
+
+ BOWLING
+
+	MATCH		     : 		168
+	WICKETS		     :		4
+	BBM		     :		2/25
+	AVERAGE		     :          92.00
+	ECOMONY              :		8.79
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :      YUZVENDRA CHAHAL     :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		75
+	Not-out              :          8               
+	RUNS                 :          20              
+	HIGHEST SCORE        :          4*              
+	AVERAGE              :          4.00           
+	STRIKE-RATE          :          42.55             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		75
+	WICKETS		     :		91
+	BBM		     :		4/25
+	AVERAGE		     :          22.64
+	ECOMONY              :		7.67
+	4W                   :		2
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       AB DE VILLIERS      :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		146
+	Not-out              :          30               
+	RUNS                 :          4109              
+	HIGHEST SCORE        :          133*             
+	AVERAGE              :          39.50             
+	STRIKE-RATE          :          151.45             
+	100                  :          3                 
+	50                   :          30                                
+
+ BOWLING
+
+	MATCH		     : 		146
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :       PARTHIV PATEL       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		130
+	Not-out              :          11               
+	RUNS                 :          2638              
+	HIGHEST SCORE        :          81             
+	AVERAGE              :          22.54             
+	STRIKE-RATE          :          118.82             
+	100                  :          0                  
+	50                   :          12                                
+
+ BOWLING
+
+	MATCH		     : 		130
+	WICKETS		     :		0
+	BBM		     :		0/0
+	AVERAGE		     :          -
+	ECOMONY              :		-
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        TIM SOUTHEE        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		38
+	Not-out              :          5                
+	RUNS                 :          106              
+	HIGHEST SCORE        :          36*               
+	AVERAGE              :          13.25             
+	STRIKE-RATE          :          130.86             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		38
+	WICKETS		     :		27
+	BBM		     :		3/24
+	AVERAGE		     :          45.77
+	ECOMONY              :		8.64
+	4W                   :		0
+	5W                   :		0
+
+
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+                                                  :      NAME                 :        UMESH YADAV        :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+               
+ BATTING                                                             
+                                                  
+	MATCH                :		112
+	Not-out              :          19               
+	RUNS                 :          112              
+	HIGHEST SCORE        :          24*               
+	AVERAGE              :          8.61             
+	STRIKE-RATE          :          93.33             
+	100                  :          0                  
+	50                   :          0                                
+
+ BOWLING
+
+	MATCH		     : 		112
+	WICKETS		     :		113
+	BBM		     :		4/24
+	AVERAGE		     :          28.76
+	ECOMONY              :		8.32
+	4W                   :		2
+	5W                   :		0
+
+
+
+                                                  :      NAME                 :       GILBERT       :
+                                                  :~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~:
+
+ BATTING
+
+	MATCH                :		1
+	Not-out              :          1
+	RUNS                 :          1
+	HIGHEST SCORE        :          1
+	AVERAGE              :          1
+	STRIKE-RATE          :          1
+	100                  :          1
+	50                   :          1
+
+ BOWLING
+
+	MATCH		     : 		1
+	WICKETS		     :		1
+	BBM		     :		1
+	AVERAGE		     :          1
+	ECOMONY              :		1
+	4W                   :		1
+	5W                   :		1
+
+
+
